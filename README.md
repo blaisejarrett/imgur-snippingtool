@@ -9,15 +9,17 @@ Screenshots
 -----------
 
 Main screen
-![snippingtool mainscreen](https://github.com/blaisejarrett/imgur-snippingtool/img/mainscreen.PNG)\
+![snippingtool mainscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/mainscreen.PNG)\
 
 Url screen
-![snippingtool urlscreen](https://github.com/blaisejarrett/imgur-snippingtool/img/urlscreen.PNG)\
+![snippingtool urlscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/urlscreen.PNG)\
 
 
 Installing
 ----------
 Requires .NET 3.5
 
+
 Download the lastest installer here:
-https://github.com/blaisejarrett/imgur-snippingtool/blob/master/installer/ImgurSnippingTool-installer.exe
+
+https://github.com/blaisejarrett/imgur-snippingtool/raw/master/installer/ImgurSnippingTool-installer.exe
