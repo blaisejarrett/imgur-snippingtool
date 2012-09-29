@@ -5,6 +5,8 @@ A clone of the windows snipping tool for imgur!
 
 Simply click rectangle snip to upload your screenshot to imgur.
 
+Licensed under the GPL.
+
 Screenshots
 -----------
 
