@@ -56,7 +56,7 @@ section "install"
 	writeUninstaller "$INSTDIR\uninstall.exe"
  
 	# Start Menu
-	createShortCut "$SMPROGRAMS\${APPNAME}.lnk" "$INSTDIR\ImgurSnippingTool.exe" "" "$INSTDIR\ImgurSnippingTool.exe"
+	createShortCut "$SMPROGRAMS\Accessories\${APPNAME}.lnk" "$INSTDIR\ImgurSnippingTool.exe" "" "$INSTDIR\ImgurSnippingTool.exe"
  
 	# Registry information for add/remove programs
 	WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${COMPANYNAME} ${APPNAME}" "DisplayName" "${APPNAME} - ${DESCRIPTION}"
