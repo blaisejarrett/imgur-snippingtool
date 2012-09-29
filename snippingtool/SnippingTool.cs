@@ -1,19 +1,9 @@
-﻿/*
-    This file is part of Imgur Snipping Tool.
-
-    Foobar is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    Imgur Snipping Tool is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
-*/
+﻿/* 
+ * Credit for this portion of Imgur Snipping Tool goes to Hans Passant from stackoverflow.com
+ * http://stackoverflow.com/questions/3123776/net-equivalent-of-snipping-tool
+ * 
+ * Modified to work with multiple monitors.
+ */
 
 using System;
 using System.Collections.Generic;
@@ -25,12 +15,6 @@ using System.Text;
 using System.Windows.Forms;
 
 
-/* 
- * Credit goes to Hans Passant from stackoverflow.com
- * http://stackoverflow.com/questions/3123776/net-equivalent-of-snipping-tool
- * 
- * Modified to work with multiple monitors.
- */
 namespace snippingtool
 {
     public partial class SnippingTool : Form
