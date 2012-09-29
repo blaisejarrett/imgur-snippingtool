@@ -2,3 +2,22 @@ imgur-snippingtool
 ==================
 
 A clone of the windows snipping tool for imgur!
+
+Simply click rectangle snip to upload your screenshot to imgur.
+
+Screenshots
+-----------
+
+Main screen
+![snippingtool mainscreen](https://github.com/blaisejarrett/imgur-snippingtool/img/mainscreen.PNG)\
+
+Url screen
+![snippingtool urlscreen](https://github.com/blaisejarrett/imgur-snippingtool/img/urlscreen.PNG)\
+
+
+Installing
+----------
+Requires .NET 3.5
+
+Download the lastest installer here:
+https://github.com/blaisejarrett/imgur-snippingtool/blob/master/installer/ImgurSnippingTool-installer.exe
