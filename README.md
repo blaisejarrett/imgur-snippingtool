@@ -9,10 +9,12 @@ Screenshots
 -----------
 
 Main screen
-![snippingtool mainscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/mainscreen.PNG)\
+
+![snippingtool mainscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/mainscreen.PNG)
 
 Url screen
-![snippingtool urlscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/urlscreen.PNG)\
+
+![snippingtool urlscreen](https://github.com/blaisejarrett/imgur-snippingtool/raw/master/img/urlscreen.PNG)
 
 
 Installing
