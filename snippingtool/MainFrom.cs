@@ -89,6 +89,7 @@ namespace snippingtool
         {
             if (!backgroundWorker1.IsBusy)
             {
+                this.Opacity = .0; // Hides dialog window while selecting 
                 progressBar1.Value = 0;
                 backgroundWorker1.RunWorkerAsync();
             }
@@ -97,7 +98,7 @@ namespace snippingtool
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
             var bmp = SnippingTool.Snip();
-
+            this.Opacity = 1; // Shows dialog window while uploading
             if (bmp != null)
             {
                 try
