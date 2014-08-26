@@ -24,7 +24,7 @@ namespace snippingtool
             //var rc = Screen.PrimaryScreen.Bounds;
             using (Bitmap bmp = new Bitmap(SystemInformation.VirtualScreen.Width,
                     SystemInformation.VirtualScreen.Height
-                    , System.Drawing.Imaging.PixelFormat.Format32bppPArgb))
+                    , System.Drawing.Imaging.PixelFormat.Format32bppRgb))
             {
                 using (Graphics gr = Graphics.FromImage(bmp))
                     gr.CopyFromScreen(SystemInformation.VirtualScreen.Left, SystemInformation.VirtualScreen.Top, 0, 0, bmp.Size);
